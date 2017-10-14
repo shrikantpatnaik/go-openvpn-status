@@ -1,3 +1,4 @@
+// Package openvpnStatus is a simple OpenVPN status file parser
 package openvpnStatus
 
 import (
