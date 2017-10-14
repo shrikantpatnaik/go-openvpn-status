@@ -2,6 +2,8 @@
 
 A simple parser for parsing OpenVPN status files
 
+See [![go-doc](https://godoc.org/github.com/shrikantpatnaik/go-openvpn-status?status.svg)](https://godoc.org/github.com/shrikantpatnaik/go-openvpn-status).
+
 ## Usage
 
 ```go
