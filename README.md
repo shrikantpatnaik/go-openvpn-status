@@ -9,7 +9,7 @@ See [![go-doc](https://godoc.org/github.com/shrikantpatnaik/go-openvpn-status?st
 ```go
 status, _ := openvpnStatus.ParseFile("examples/server.status")
 
-fmt.Println(status.UpdateAt)
+fmt.Println(status.UpdatedAt)
 
 fmt.Println(status.ClientList)
 
